@@ -27,4 +27,3 @@ Commit 26 line
 Commit 27 line
 Commit 28 line
 Commit 29 line
-Commit 30 line
